@@ -6,7 +6,10 @@ The project shows the usage of an own local server and the handling with get and
 The code was written by ME :-)
 
 ## Instructions
+Install all of the required node modules using npm install
+
 Start the local server with `node server.js`.
+
 Then got to `http://localhost:8080/` in the browser.
 
 ## What You're Getting
